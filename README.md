@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Fatlind0127
+-  My Portfolio: https://fatlindhamza.online/
+-  👋 Hi, I’m @Fatlind0127
 - 👀 I’m interested in Full Stack Development code and tips!
 - 🌱 I’m currently learning Laravel and React
 - 💞️ I’m looking to collaborate on codding..
-- 📫 How to reach me : Instgram/ @__fatl1nd__
+- 📫 How to reach me : Instgram/ @fatlind.hz
 
 <!---
 Fatlind0127/Fatlind0127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
